@@ -6,6 +6,6 @@
   * [网络通信](post/common/wang-luo-xie-yi.md)
 * 客户端
   * [游戏引擎的选择](post/client/yin-qing-xuan-ze.md)
-* 服务器
+* [服务器](fu-wu-qi.md)
 * 其他
 
